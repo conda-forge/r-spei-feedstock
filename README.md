@@ -9,6 +9,8 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spei-feedstoc
 
 Summary: A set of functions for computing potential evapotranspiration and several widely used drought indices including the Standardized Precipitation-Evapotranspiration Index (SPEI).
 
+Development: https://github.com/sbegueria/SPEI
+
 Current build status
 ====================
 
