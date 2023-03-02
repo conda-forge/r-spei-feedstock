@@ -1,4 +1,4 @@
-{% set version = "1.8.0" %}
+{% set version = "1.8.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/SPEI_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/SPEI/SPEI_{{ version }}.tar.gz
-  sha256: f1e8e25337d1181db83f3b3db38483545f1ac683e639c395da622e786a3d197c
+  sha256: 56cfcf6c7b7dc34fd05aa9cca3ee29d3b0628c82bcde80d6dc1519586483c7f6
 
 build:
   merge_build_host: true  # [win]
