@@ -1,11 +1,11 @@
-About r-spei
-============
+About r-spei-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spei-feedstock/blob/main/LICENSE.txt)
 
 Home: http://sac.csic.es/spei
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spei-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of functions for computing potential evapotranspiration and several widely used drought indices including the Standardized Precipitation-Evapotranspiration Index (SPEI).
 
